@@ -1,0 +1,147 @@
+.profil td {
+  padding-left: 10px;
+  font-size: 17px;
+}
+.btn-edit {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.kelass h2,h4{
+  margin-top: 0px;
+}
+.kelass {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.butt {
+  
+}
+.hp0 p{
+  margin-top: 20px;
+  font-size: 30px;
+}
+.as{
+  margin-top: 8px;
+  font-size: 25px;
+  font-family: arial;
+}
+.hp1 span{
+  font-size: 18px;
+}
+.hp2{
+  margin-left: 310px;
+  margin-top: -30px;
+}
+.hp4 {
+  margin-top: -50px;
+}
+.hp5 {
+  margin-top: -30px;
+}
+.hp6{
+  margin-top: -30px;
+}
+.z1 {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+.q1 {
+  margin-left: 140px;
+}
+.q2 {
+  margin-left: 170px;
+  margin-right: 150px;
+}
+.modal-body p {
+  font-size: 20px;
+}
+.gbg_kelas {
+  padding:8px 0px;
+	background:rgba(0, 192, 239, 0.2);
+	border:0px solid #dbdbdb;
+  font-size: 20px;
+}
+.img-circle {
+  height: 20px;
+}
+
+/* -----CSS DOSEN----- */
+ /* pop up */
+ .example-modal .modal {
+  position: relative;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
+  display: block;
+  z-index: 1;
+ }
+
+ .example-modal .modal {
+  background: transparent !important;
+ }
+ .pd-rlt{
+  padding-top: 7px;
+  padding-right: 15px;
+  padding-left: 15px; 
+ }
+ .pd-rl{
+  padding-top: 1.5px;
+  padding-left: 5px; 
+ }       
+ .popin{
+  border-radius:5px;
+    box-shadow: none;
+  box-sizing: border-box;
+ }
+ .gantiwarna{
+  float: left;
+    width: 25px;
+    height: 25px;
+    border-radius: 0px;
+    background: #FFFFFF
+ }
+ /* CSS SUBMENU KELAS */
+
+/* box-sizing: padding-box; */
+.autoresize{  
+  /* box-sizing: padding-box; */
+  overflow:hidden;
+  /* demo only: */
+  font-size:14px;
+  vertical-align: top;
+  border-radius:5px;
+  box-shadow: none;
+  box-sizing: border-box;
+  resize: none;
+  overflow-y: none;
+}
+.left{
+  float: left;
+}
+.boxpad {
+  padding: 20px;
+}
+.ta-control{
+  margin-left: 55px; 
+  padding-top: 4px;
+}
+.cat-control{
+  border-top: 1px solid #dfe4e8;
+  background-color: #f8f9fa; 
+  padding: 10px 20px;
+}
+.section-left-cat{
+  display: inline-block; 
+  width: 66%; 
+  vertical-align: middle;
+}
+.section-right-cat{
+  display: inline-block; 
+  width: 33%; 
+  vertical-align: middle; 
+  text-align: right;
+}
+.in-rad{
+  border-radius:5px;
+}
